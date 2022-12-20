@@ -48,10 +48,10 @@ httpd.serve_forever()
 ```
 
 ## ServersideOutput:
-![SERVERSIDEOUTPUT](./images/serverside.png)
+![SERVERSIDE](./images/serverside.png)
 
 ## ClientSideOutput:
-![CLIENTSIDEOUTPUT](./images/serverside.png)
+![CLIENTSIDE](./images/clientside.png)
 
 ## RESULT:
 Thus the webserver is succesfully to display top five web application frameworks
