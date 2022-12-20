@@ -47,11 +47,11 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 
-## OUTPUT:
-#ServersideOutput
+## ServersideOutput:
+![SERVERSIDEOUTPUT](./images/serverside.png)
 
-#ClientSideOutput
-
+## ClientSideOutput:
+![CLIENTSIDEOUTPUT](./images/serverside.png)
 
 ## RESULT:
 Thus the webserver is succesfully to display top five web application frameworks
